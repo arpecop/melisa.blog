@@ -7,12 +7,12 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Bonneville`,
-    titleTemplate: `%s | A starter theme for Gatsby`,
-    description: `A starter theme for Gatsby`,
+    title: `Melisa Laurini`,
+    titleTemplate: `%s | Beauty tips blog`,
+    description: `Beauty creams, beauty tips `,
     siteUrl: `https://bonneville.netlify.com`,
     image: `/images/color.jpg`,
-    author: `Morgan Baker`,
+    author: `Melisa Laurini`,
     authorSite: `https://www.morganbaker.dev`,
     twitterUsername: `@bonneville`,
     twitterURL: `https://twitter.com/`,
@@ -20,6 +20,15 @@ module.exports = {
     githubURL: `https://github.com/bagseye`,
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        // You can add multiple tracking ids and a pageview event will be fired for all of them.
+        trackingIds: [
+          "UA-29127191-2", // Google Analytics / GA
+        ],
+      },
+    },
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
