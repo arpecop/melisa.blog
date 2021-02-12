@@ -25,6 +25,11 @@ Hyperpigmentation is a common condition in which dark sports appear on the face 
 
 The main reasons for the appearance of pigment spots are sunrays, hormonal imbalance, again, intake of oral contraceptives and other medicine, traumas and inflammatory processes of the skin, as well as after aggressive cosmetic procedures.The most common forms of hyperpigmentation are freckles, melasma (chloasma, “pregnancy mask”), senile lentigo (age spots), senile keratosis, post-inflammatory hyperpigmentation, post-acne pigmentation, ect. Sun exposure after the appear-acne of such spots may increase their development and may present a serious aesthetic problem. Sometimes pigmentation may deteriorate and provoke an oncological skin condition.
 
+## What are the types of pigmentations that exist?
+
+Melanin pigment is synthesized in skin cells and has a function to protect us from UV rays.
+The main reasons for the appearance of pigment spots are the sun's rays, hormonal imbalance, again, taking oral contraceptives and other drugs, injuries and inflammatory processes of the skin, as well as after aggressive cosmetic procedures. The most common forms of hyperpigmentation are freckles, melasma (chloasma, "pregnancy mask"), senaly lanzigo (age spots), centinal keratosis, post-inflammatory hyperpigmentation, after acne pigmentation, etc. Exposure to the sun after the appearance of acne on such spots can increase their development and can pose a serious aesthetic problem. Sometimes pigmentation can deteriorate and cause an oncological condition of the skin.
+
 ## Pigmentation creams for women
 
 [Aadya Life Chloasma Care Cream for Hyper pigmentation, Stretch marks, Blemishes, 30g (Pack of 2)](https://www.amazon.com/gp/product/B07DNG22Y2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07DNG22Y2&linkCode=as2&tag=arpecop0c-20&linkId=fcd81af4fc26c3a87876071bf4757e4b)
