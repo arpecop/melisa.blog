@@ -32,12 +32,8 @@ The main reasons for the appearance of pigment spots are the sun's rays, hormona
 
 ## Pigmentation creams for women
 
-[Aadya Life Chloasma Care Cream for Hyper pigmentation, Stretch marks, Blemishes, 30g (Pack of 2)](https://www.amazon.com/gp/product/B07DNG22Y2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07DNG22Y2&linkCode=as2&tag=arpecop0c-20&linkId=fcd81af4fc26c3a87876071bf4757e4b)
+[Filorga MESO-MASK Anti Aging Radiance Facial Mask with Collagen and Elastin, 1.69 Fl oz](https://amzn.to/2NpV6P5)
 
-[Maryann Organics Collagen Cream - Anti Aging Face Moisturizer - Day & Night - Made in USA - Natural Formula with Hyaluronic Acid & Vitamin C - Firming Cream to Smooth Wrinkles & Fine Lines - 1.7Oz](https://www.amazon.com/gp/product/B0822MFX8L/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0822MFX8L&linkCode=as2&tag=arpecop0c-20&linkId=44741d121495b47195c9836246719855)
+[Laboratoires Filorga Paris SCRUB & MASK Exfoliating Bubble Mask, Nice scent, 1.85 Fl Oz](https://amzn.to/3pfDPW7)
 
-[Brightening Skin Cream for Sensitive Areas Dark Spot Corrector - Dark Spot removal for Men and Women - Bright Gel for Face, Bikini - Skin Care & Natural Product - 35% percent](https://www.amazon.com/gp/product/B08CSKNWX3/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08CSKNWX3&linkCode=as2&tag=arpecop0c-20&linkId=931b3b2885a45936c04997d2cd4ddc82)
-
-[Radha Beauty Retinol Moisturizer Miracle Cream for Face - with Retinol, Hyaluronic Acid, Vitamin E and Green Tea. Best Night and Day Moisturizing Cream 1.7 fl oz.](https://www.amazon.com/gp/product/B015ORL3B8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015ORL3B8&linkCode=as2&tag=arpecop0c-20&linkId=5c067e8f6c8996ab49d93bdb0794ff82)
-
-[Aadya Life Chloasma Care Cream for Hyper pigmentation, Stretch marks, Blemishes, 30g (Pack of 2)](https://www.amazon.com/gp/product/B07DNG22Y2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07DNG22Y2&linkCode=as2&tag=arpecop0c-20&linkId=3464e2a0093e7609bd77ac90f7c81e3d)
+[Filorga C-Recover Pure Concentrated Vitamin C Serum for Boosting Radiance 3 Week Regimen, 0.34 Fl Oz, Pack of 3](https://amzn.to/3tU7Puo)
