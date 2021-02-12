@@ -5,7 +5,7 @@ date: 2021-01-12
 path: /pigmentation-cream-for-women
 featuredImage: ./images/pigmentation.jpg
 featuredImageAlt: "pigmentation on face"
-tags: ["pigmentation", "face"]
+tags: ["pigmentation", "face", "cream"]
 author: Melisa Laurini
 ---
 
