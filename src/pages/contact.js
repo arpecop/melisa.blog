@@ -57,7 +57,7 @@ const ContactPage = () => {
         malesuada.{" "}
       </p>
       <Form>
-        <form name="contact" netlify>
+        <form action="https://formspree.io/f/xpzonnqd" method="POST">
           <p>
             <FormLabel for="name">Your Name</FormLabel>
             <FormInput type="text" name="name" />
