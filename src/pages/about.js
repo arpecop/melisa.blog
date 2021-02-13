@@ -1,8 +1,9 @@
 import React from "react"
-
+import Laurini from "./laurini.jpg"
 const AboutPage = () => (
   <>
     <h1>What is Melisa Laurini?</h1>
+    <img src={Laurini}></img>
     <ul>
       <li>
         Melisa Laurini is an Italian brand that creates beauty for everyone day.

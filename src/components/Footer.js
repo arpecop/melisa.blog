@@ -35,16 +35,8 @@ const Footer = ({ Logo }) => {
                 <img src={Logo} alt={footerData.title} />
               </Link>
             )}
-            <address>
-              85 Simone Weil Avenue
-              <br />
-              Watton-at-Stone
-              <br />
-              SG14 8BL
-            </address>
-            <a className="telephone" href="tel:+004407076009211">
-              07076 009 211
-            </a>
+            <address></address>
+            <a className="telephone" href="tel:+004407076009211"></a>
           </div>
         ) : null}
 
@@ -67,23 +59,6 @@ const Footer = ({ Logo }) => {
             )}
 
             {/* If social menu items are being imported, render this */}
-            {socialMenuItems && (
-              <ul className="footer-menu">
-                {socialMenuItems.map((item, index) => {
-                  return (
-                    <li key={index}>
-                      <a
-                        href={item.url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        {item.name}
-                      </a>
-                    </li>
-                  )
-                })}
-              </ul>
-            )}
 
             {/* If footer menu items are being imported, render this */}
             {footerMenuItems && (
