@@ -47,15 +47,7 @@ const ContactPage = () => {
         description="Contact Bonneville about your next project"
       />
       <Banner content="Get in touch today" />
-      <p>
-        Fusce eu tincidunt felis. Ut auctor urna et nibh lacinia, id efficitur
-        ipsum blandit. Aliquam vulputate sapien sit amet ante varius vestibulum.
-        Morbi sodales, quam quis tincidunt venenatis, nibh lorem viverra velit,
-        ac ultrices ligula nisi id justo. Vestibulum imperdiet fermentum ante eu
-        fermentum. Sed et orci pretium, ullamcorper nisi nec, dignissim erat.
-        Sed eu consequat neque, interdum malesuada eros. Ut maximus gravida
-        malesuada.{" "}
-      </p>
+
       <Form>
         <form action="https://formspree.io/f/xpzonnqd" method="POST">
           <p>
