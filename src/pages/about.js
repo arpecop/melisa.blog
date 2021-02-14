@@ -3,9 +3,7 @@ import Laurini from "./laurini.jpg"
 const AboutPage = () => (
   <>
     <h1>What is Melisa Laurini?</h1>
-    <div style={{ textAlign: "center" }}>
-      <img src={Laurini} style={{ maxWidth: "100%" }}></img>
-    </div>
+    <div style={{ textAlign: "center" }}></div>
     <ul>
       <li>
         Melisa Laurini is an Italian brand that creates beauty for everyone day.
