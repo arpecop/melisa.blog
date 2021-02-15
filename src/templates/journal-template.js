@@ -17,18 +17,8 @@ const JournalTemplate = props => {
 
   return (
     <>
-      <SEO title="Read more about the projects at Bonneville" />
-      <Banner content="Bonneville Journal" />
-      <p>
-        {" "}
-        This is the Bonneville journal. Here you will find an elegant blog
-        system that will help you make announcements to your cleints with ease.
-      </p>
-      <p>
-        Each page displays a maximum of 10 posts before displaying the
-        pagination component. To change the maximum number of posts per page,
-        please visit gatsby-node.js.
-      </p>
+      <SEO title="Beauty tips for 2021" />
+
       {edges.map(({ node }, index) => {
         return <BlogItem nodeObj={node} index={index} />
       })}
