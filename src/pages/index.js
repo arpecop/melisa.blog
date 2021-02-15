@@ -15,7 +15,7 @@ export default ({ data }) => {
   return (
     <>
       <Seo />
-      <Banner content="My name is Melisa. I'm a licensed Beautician in Bulgaria area" />
+      <Banner content="My name is Melisa. I'm a licensed beautician in Bulgaria and United Kingdom" />
       <FeaturedItems>{BlogPostQuery.totalCount} Featured Posts</FeaturedItems>
       {BlogPostQuery.edges.map(({ node }, index) => (
         <BlogItem nodeObj={node} index={index} />
