@@ -1,8 +1,8 @@
 ---
-title: How to get rid of annoying hair?
+title: How to get rid of annoying hair with lasers?
 description: Lasting effect after the course of hair removal
 date: 2021-01-17
-path: /How-to-get-rid-of-annoying-hair
+path: /How-to-get-rid-of-annoying-hair-lasers
 featuredImage: ./images/laser.jpg
 featuredImageAlt: "hair"
 tags: ["hair", "laser"]
