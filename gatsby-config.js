@@ -10,7 +10,7 @@ module.exports = {
     title: `Melisa Laurini`,
     titleTemplate: `%s | Beauty tips blog`,
     description: `Beauty creams, beauty tips `,
-    siteUrl: `https://bonneville.netlify.com`,
+    siteUrl: `https://blog.mlaurini.com`,
     image: `/images/color.jpg`,
     author: `Melisa Laurini`,
     authorSite: `https://www.morganbaker.dev`,
@@ -20,15 +20,6 @@ module.exports = {
     githubURL: `https://github.com/bagseye`,
   },
   plugins: [
-    {
-      resolve: `gatsby-plugin-google-gtag`,
-      options: {
-        // You can add multiple tracking ids and a pageview event will be fired for all of them.
-        trackingIds: [
-          "UA-29127191-2", // Google Analytics / GA
-        ],
-      },
-    },
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
@@ -49,8 +40,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "ENTER YOUR GA TRACKING ID HERE",
-        head: false,
+        trackingId: "UA-29127191-2",
+        head: true,
       },
     },
     {
