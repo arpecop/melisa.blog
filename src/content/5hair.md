@@ -62,3 +62,11 @@ This hairstyle is universal and it will allow you to satisfy even the most deman
 A truly unique and interesting hairstyle can be made by specialists with the help of a clipper with which they work in the stylish execution of a hairstyle for short hair. Ideas for hairstyles for short hair will give you only reputable salons with proven professionalism on the part of stylists. A beautiful and original pattern can appear in the neck area. He even shaved part of the bangs on his forehead.
 
 ![alt_text](images/hair8.jpg "hairstyle can be made by specialists")
+
+Recomended Products:
+
+[SRI Salon Dry Pro - Blow Dryer with Infrared Light Technology, Negative Ions for Anti-Frizz, Fast Drying & Max Shine, 1875W Dual Voltage | Free Attachments - Concentrator, Diffuser, and Comb](https://amzn.to/3pqOLjN)
+
+[Olaplex Hair Perfector No 3 Repairing Treatment](https://amzn.to/37gYumA)
+
+[Professional Hair Straightener, Flat Iron for Hair Styling: 2 in 1 Tourmaline Ceramic Flat Iron for All Hair Types, Gifts for Women/Mom/Girls/Wife/Girlfriend](https://amzn.to/3jUX5HF)
