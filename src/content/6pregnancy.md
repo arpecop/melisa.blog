@@ -25,10 +25,10 @@ Although at the beginning of your pregnancy you are still active and your body l
 
 Hormones are also to blame for fatigue, for a sharp change in moods, for drowsiness, irritability, but they are also a great excuse for all the emotions you experience :).
 
+Accept changes and malaise with a smile – this means that your body reacts properly to hormonal changes and prepares to create a cozy home for the little man.
+
 [Filorga MESO-MASK Anti Aging Radiance Facial Mask with Collagen and Elastin, 1.69 Fl oz](https://amzn.to/2NpV6P5)
 
 [Laboratoires Filorga Paris SCRUB & MASK Exfoliating Bubble Mask, Nice scent, 1.85 Fl Oz](https://amzn.to/3pfDPW7)
 
 [Filorga C-Recover Pure Concentrated Vitamin C Serum for Boosting Radiance 3 Week Regimen, 0.34 Fl Oz, Pack of 3](https://amzn.to/3tU7Puo)
-
-Accept changes and malaise with a smile – this means that your body reacts properly to hormonal changes and prepares to create a cozy home for the little man.
