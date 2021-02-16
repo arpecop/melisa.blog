@@ -66,3 +66,7 @@ Procedures proceed quickly and practically painlessly. An important advantage of
 ###How is it judged which laser to use?
 
 After a detailed consultation with a doctor, the appropriate laser necessary for the procedure to be effective, because each patient is special and carries its individual characteristics.
+
+[Remington IPL6500QFB iLight Ultra Face & Body At-Home IPL Hair Removal System, Permanent Results w/ Powerful 24Jsper Flash- FDA Cleared for Women & Men](https://amzn.to/3amujwd)
+
+[Fasbruy IPL Hair Removal Permanent Painless Laser Hair Remover Device for Women and Man Upgrade to 999,999 Flashes for Facial Legs, Arms, Armpits, Body, At-Home Use (Black)](https://amzn.to/3ppYSpb)
