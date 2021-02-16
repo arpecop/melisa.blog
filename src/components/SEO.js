@@ -30,6 +30,10 @@ const SEO = ({ title, description, lang, image, article }) => {
       title={seo.title}
       titleTemplate={titleTemplate}
     >
+      <meta
+        name="google-site-verification"
+        content="NdczLvSP5nzM0CmJxkSoKwV2R2eDIUYBZtWslyoDnuA"
+      />
       <meta name="description" content={seo.description} />
       <meta name="image" content={seo.image} />
       {seo.url && <meta property="og:url" content={seo.url} />}
