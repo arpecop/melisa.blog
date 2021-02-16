@@ -27,8 +27,10 @@ Hormones are also to blame for fatigue, for a sharp change in moods, for drowsin
 
 Accept changes and malaise with a smile – this means that your body reacts properly to hormonal changes and prepares to create a cozy home for the little man.
 
-[Filorga MESO-MASK Anti Aging Radiance Facial Mask with Collagen and Elastin, 1.69 Fl oz](https://amzn.to/2NpV6P5)
+Recomended Products:
 
-[Laboratoires Filorga Paris SCRUB & MASK Exfoliating Bubble Mask, Nice scent, 1.85 Fl Oz](https://amzn.to/3pfDPW7)
+[Certified-Organic Intensive Belly & Body Stretch Mark Oil for Pregnancy | Powerful bio-compatible plant-extracts prevent and fade stretch marks better than a stretch mark cream or belly butter](https://amzn.to/37mEnnb)
 
-[Filorga C-Recover Pure Concentrated Vitamin C Serum for Boosting Radiance 3 Week Regimen, 0.34 Fl Oz, Pack of 3](https://amzn.to/3tU7Puo)
+[Mederma Stretch Marks Therapy, Hydrates to Help Prevent Stretch Marks, Clinically Shown to Produce Noticable Improvement in 4 Weeks, Dermatologist Recommended, Ivory, 5.29 Ounce](https://amzn.to/3b8i85y)
+
+[HATCH Mama - Natural Belly Oil Stretch Mark Smoothing Therapy | Non-Toxic, Plant-Derived, Mama-Safe (6.7 oz | 195 ml)](https://amzn.to/2ZmiMqp)
